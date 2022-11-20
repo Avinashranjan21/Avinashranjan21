@@ -13,6 +13,28 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1IXW91w6WKPBzyeRxLEAtPC8qpnMoKSRKkugc4WgoldQ/edit?usp=sharing](https://docs.google.com/document/d/1IXW91w6WKPBzyeRxLEAtPC8qpnMoKSRKkugc4WgoldQ/edit?usp=sharing)
 
+<h3 align="left">Software Design Pattern:</h3>
+
+| Purpose     | Design Pattern    | Status |
+|-------------|-------------------|--------|
+| Creational  | Abstract Factory  | ✔️     |
+| Creational  | Builder           | ✔️     |
+| Creational  | Factory Method    | ✔️     |
+| Creational  | Prototype         | ✔️     |
+| Creational  | Singleton         | ✔️     |
+| Structural  | Adapter           | ✔️     |
+| Structural  | Bridge            | ✔️     |
+| Structural  | Decorator         | ✔️     |
+| Structural  | Facade            | ✔️     |
+| Structural  | Proxy             | ✔️     |
+| Behavioral  | Command           | ✔️     |
+| Behavioral  | Interpreter       | ✔️     |
+| Behavioral  | Iterator          | ✔️     |
+| Behavioral  | Template Method   | ✔️     |
+| Behavioral  | Visitor           | ✔️     |
+| Behavioral  | Observer          | ✔️     |
+| Behavioral  | Strategy          | ✔️     |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/avinashranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinashranjan" height="30" width="40" /></a>
