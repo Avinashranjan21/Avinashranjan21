@@ -15,25 +15,11 @@
 
 <h3 align="left">Software Design Pattern:</h3>
 
-| Purpose     | Design Pattern    | Status |
-|-------------|-------------------|--------|
-| Creational  | Abstract Factory  | ✔️     |
-| Creational  | Builder           | ✔️     |
-| Creational  | Factory Method    | ✔️     |
-| Creational  | Prototype         | ✔️     |
-| Creational  | Singleton         | ✔️     |
-| Structural  | Adapter           | ✔️     |
-| Structural  | Bridge            | ✔️     |
-| Structural  | Decorator         | ✔️     |
-| Structural  | Facade            | ✔️     |
-| Structural  | Proxy             | ✔️     |
-| Behavioral  | Command           | ✔️     |
-| Behavioral  | Interpreter       | ✔️     |
-| Behavioral  | Iterator          | ✔️     |
-| Behavioral  | Template Method   | ✔️     |
-| Behavioral  | Visitor           | ✔️     |
-| Behavioral  | Observer          | ✔️     |
-| Behavioral  | Strategy          | ✔️     |
+| Category | Design Patterns                                                                                                                                                                     |
+|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Creational | Singleton, Factory, Abstract Factory, Builder, Prototype, Lazy initialisation                                                                                                       |
+| Structural | Bridge, Adapter, Decorator, Facade, Composite, Proxy                                                                                                                                |
+| Behavioral | Observer, Chain of Responsibility, Command, Strategy,State, Visitor, Mediator, Memento|
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
