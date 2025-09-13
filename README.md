@@ -1,38 +1,91 @@
-<h1 align="center">Hi 👋, I'm Avinash Ranjan</h1>
-<h3 align="center">A passionate Mobile developer/ Architect from India</h3>
+<!-- Avinash Ranjan Modern GitHub Profile -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Avinash+Ranjan!;Mobile+Developer+%7C+Architect+%7C+Backend+Enthusiast;Loving+Pydantic%2C+MCP%2C+and+Spring+Boot;Building+Innovative+Apps+and+Servers" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashranjan21&label=Profile%20views&color=0e75b6&style=flat" alt="avinashranjan21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashranjan21" alt="avinashranjan21" /></a> </p>
-
-- 🌱 I’m currently learning **Software Architect**
-
-- 💬 Ask me about **Java, Kotlin, JavaScript,Swift, Python**
-
-- 📫 How to reach me **Avinash.Ranjan21@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1IXW91w6WKPBzyeRxLEAtPC8qpnMoKSRKkugc4WgoldQ/edit?usp=sharing](https://docs.google.com/document/d/1IXW91w6WKPBzyeRxLEAtPC8qpnMoKSRKkugc4WgoldQ/edit?usp=sharing)
-
-<h3 align="left">Software Design Pattern:</h3>
-
-| Category | Design Patterns                                                                                                                                                                     |
-|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Creational | Singleton, Factory, Abstract Factory, Builder, Prototype, Lazy initialisation                                                                                                       |
-| Structural | Bridge, Adapter, Decorator, Facade, Composite, Proxy                                                                                                                                |
-| Behavioral | Observer, Chain of Responsibility, Command, Strategy,State, Visitor, Mediator, Memento|
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/avinashranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinashranjan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/avinash-ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="avinash-ranjan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/avinash_ranjan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avinash_ranjan21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/littlebaua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="littlebaua" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avinashranjan21&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <a href="mailto:Avinash.Ranjan21@gmail.com"><img src="https://img.shields.io/badge/Email-Avinash.Ranjan21%40gmail.com-orange?logo=gmail&style=flat-square" /></a>
+  <a href="https://linkedin.com/in/avinashranjan"><img src="https://img.shields.io/badge/LinkedIn-Avinash%20Ranjan-blue?logo=linkedin&style=flat-square" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashranjan21&show_icons=true&locale=en&layout=compact" alt="avinashranjan21" /></p>
+### ✨ About Me  
+💡 **Mobile-first developer** now mastering backend & architecture  
+📦 Building **MCP servers** for AI-driven automation  
+⚡ Passionate about **Pydantic-powered APIs** and **Spring Boot microservices**  
+📱 Experienced in **Android (Kotlin)**, **Flutter**, and **cross-platform** apps  
+🎯 Always learning and sharing about **software design patterns**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashranjan21&show_icons=true&locale=en" alt="avinashranjan21" /></p>
+---
 
+### 🛠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,spring,python,fastapi,flutter,react,docker,jenkins,git,firebase,mysql&perline=6" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+<table>
+<tr>
+<td align="center" width="50%">
+  
+**🤖 MCP Automation Server**  
+🔹 AI-powered test orchestration for CI/CD pipelines  
+🔹 Integrated with GitLab for automated testing  
+
+</td>
+<td align="center" width="50%">
+  
+**📱 Kounsel App**  
+🔹 Chime SDK-based video conferencing  
+🔹 Role-based admission & Firestore integration  
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  
+**📦 Pydantic Data Models**  
+🔹 Clean, type-safe API schema design  
+🔹 Ensures robust validation in Python services  
+
+</td>
+<td align="center" width="50%">
+  
+**☁ Spring Boot Microservices**  
+🔹 Scalable backend for enterprise apps  
+🔹 RESTful APIs, Dockerized deployments  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashranjan21&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=avinashranjan21&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashranjan21&layout=compact&theme=radical" height="160" />
+
+</div>
+
+---
+
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/avinashranjan"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://stackoverflow.com/users/avinash-ranjan"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" /></a>
+  <a href="https://hackerrank.com/avinash_ranjan21"><img src="https://skillicons.dev/icons?i=hackerrank" height="40" /></a>
+  <a href="https://leetcode.com/littlebaua"><img src="https://skillicons.dev/icons?i=leetcode" height="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ *"Code is like humor. When you have to explain it, it’s bad."* ✨  
+</p>
